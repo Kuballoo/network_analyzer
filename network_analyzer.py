@@ -104,9 +104,6 @@ def IPs_scanner(IPs):
     input(Fore.RED + '\nPress enter to continue...' + Style.RESET_ALL)
 
 
-    
-
-
 def menu():
     while True:
         clear()
