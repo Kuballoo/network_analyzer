@@ -12,7 +12,7 @@ Small script to scan ips and ports using three-handshake.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/yourproject.git`
+1. Clone the repository: `git clone https://github.com/Kuballoo/network_analyzer.git`
 2. Navigate to the project directory: `cd yourproject`
 3. Open termina and run `python main.py`.
 4. Have fun from using my script :)
